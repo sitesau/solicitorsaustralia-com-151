@@ -1,0 +1,19 @@
+{
+  "wheel_id": 323,
+  "structure": "umbrella",
+  "slug": "solicitorsaustralia-com-151",
+  "project": "family-lawyers-brisbane-57621522beb31b9afdf4d545ecb551256c6fcab",
+  "parent_t1_ref": "solicitorsaustralia.com-004",
+  "node_role": "buffer",
+  "money_target": "solicitorsaustralia.com.au",
+  "primary_kw": "family lawyers brisbane",
+  "intended_url": "https://sitesau.github.io/solicitorsaustralia-com-151/",
+  "writeback_nonce": "12aa33bf324af447",
+  "links": [
+    {
+      "target_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/family-lawyers-brisbane/",
+      "anchor": "family lawyers brisbane",
+      "rel": "follow"
+    }
+  ]
+}
